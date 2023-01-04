@@ -1,0 +1,80 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: #8AA4BC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box{
+    background: #CAA6C6;
+    width: 80vw;
+    height: 60vh;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 30px;
+}
+
+
+#txtquote{
+    background: #CAA6C6;
+    width: 60vw;
+    height: 10vh;
+    margin: 0 auto;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto Serif', serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#txtauthor{
+    background: #CAA6C6;
+    width: 60vw;
+    height: 10vh;
+    margin: 0 auto;
+    margin-top: -5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto Serif', serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+#txttags{
+    background: #CAA6C6;
+    width: 60vw;
+    height: 10vh;
+    margin: 0 auto;
+    margin-top: -30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto Serif', serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+.button{
+    background: #8AA4BC;
+    width: 18vw;
+    height: 5vh;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
